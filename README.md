@@ -1,4 +1,6 @@
-Master thesis Project for Tellef Storebakken
+Oslo Method for the master thesis Project for Tellef Storebakken
+
+The Oslo Method is here done with the newly made OmPy software.
 
 Notebook started by following the OmPy "Getting started" guide from https://ompy.readthedocs.io/en/latest/getting_started.html
 For now, most of the coding is copied from here.
