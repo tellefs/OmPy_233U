@@ -1,3 +1,6 @@
+Not working in this repo. anymore. FOR UPDATES, SEE: https://github.com/tellefs/MasterThesis
+
+
 Oslo Method for the master thesis Project for Tellef Storebakken
 
 The Oslo Method is here done with the newly made OmPy software.
